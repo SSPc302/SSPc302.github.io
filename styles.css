@@ -4,3 +4,10 @@ body {
 h1{
 	color:#D8DD38;
 	}
+.frame {
+	border:10px ridge #1745E4;
+	}
+#enter-in{
+	background-color:#57E146;
+	font-size:20px;
+	}
