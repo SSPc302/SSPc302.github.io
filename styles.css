@@ -1,13 +1,28 @@
 body {
-	background-color:rgb(24, 155, 198);
+	background-color:#328BEF;
 	}
 h1{
 	color:#D8DD38;
 	}
 .frame {
+	position:absolute;
+	float:left;
 	border:10px ridge #1745E4;
+	width:70%;
 	}
 #enter-in{
 	background-color:#57E146;
-	font-size:20px;
+	font-size:15px;
+	}
+h2{
+	color:#D8DD38;
+	width:70%;
+	font-size:30px;
+	}
+.sidebar {
+	float:right;
+	margin-left:80%;
+	margin-right:5px;
+	background-color:grey;
+	font-size:20px;	
 	}
