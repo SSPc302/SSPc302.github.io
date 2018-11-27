@@ -1,8 +1,10 @@
 body {
-	background-color:#328BEF;
-	}
+	background-image:url('greybackgroundcolor.jpg');
+    background-repeat:repeat;
+
+}
 h1{
-	color:#D8DD38;
+	color:white;
 	}
 .frame {
 	position:absolute;
@@ -10,15 +12,18 @@ h1{
 	border:10px ridge #1745E4;
 	width:70%;
 	}
-#enter-in{
-	background-color:#57E146;
-	font-size:15px;
-	}
 h2{
-	color:#D8DD38;
+    color:white;
+}
+h2 a{
+	
 	width:70%;
 	font-size:30px;
-	}
+    background-color:yellow;
+}
+h2 a:hover {
+    background-color: red;
+}
 .sidebar {
 	float:right;
 	margin-left:80%;
@@ -26,3 +31,20 @@ h2{
 	background-color:grey;
 	font-size:20px;	
 	}
+a:link.enterin{
+    background-color:grey;
+    padding:5px;
+}
+a:hover.enterin {
+    background-color: red;
+}
+li{
+    color:white;
+}
+.wondersheading{
+    text-align: center;
+    width:70%;
+}
+.firstpagelinks{
+    text-align: center;
+}
