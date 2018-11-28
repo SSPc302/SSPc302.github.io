@@ -56,3 +56,7 @@ li{
 .firstpagelinks{
     text-align: center;
 }
+#date{
+    text-align:right;
+    color:aliceblue;
+}
